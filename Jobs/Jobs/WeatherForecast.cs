@@ -10,5 +10,6 @@ namespace Jobs
 
         public string? Summary { get; set; }
         public string? Summary222 { get; set; }
+        public string? Summary222df { get; set; }
     }
 }
